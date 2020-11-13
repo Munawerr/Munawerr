@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## My goal is to become a FullStack Developer!!
 
 - 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on React-Native
 - 🥅 2020 Goals: Learn, Learn & Learn
 - ⚡ Fun fact: I like to make animated gifs
 
